@@ -12,6 +12,7 @@ DESVENTAJAS: Tarda bastante hacerlo, hay que planificar MUY BIEN espacios en la 
 Diagrama de Flujo
 
 VENTAJAS: SUPER claro de leer 
+
 DESVENTAJAS: Tarda dibujarlo, mucho
                       
 Pseudo Código
