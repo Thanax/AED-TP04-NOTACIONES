@@ -8,6 +8,7 @@ Nassi-Shneiderman, Chapin
 
 VENTAJAS: Claro de leer, CLARA distinción de estructuras   
 DESVENTAJAS: Tarda bastante hacerlo, hay que planificar MUY BIEN espacios en la hoja                                                                 
+
 Diagrama de Flujo
 
 VENTAJAS: SUPER claro de leer 
