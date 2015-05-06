@@ -4,18 +4,18 @@ Entre Nassi-Shneiderman, Chapin, Diagrama de Flujo y Pseudo Código considero qu
 
 Es cierto que los Diagramas son más "visuales" y más fáciles de entender, no solo diferencian claramente las estructuras sino que además simplifican el paso a cualquier tipo de código más allá del lenguaje, y aunque pseudo código no se queda atrás en esto último, definitivamente no es tan claro a primera vista, sobretodo para alguien que no entiende programación
 
-_Nassi-Shneiderman, Chapin_
+__Nassi-Shneiderman, Chapin__
 
 VENTAJAS: Claro de leer, CLARA distinción de estructuras   
 DESVENTAJAS: Tarda bastante hacerlo, hay que planificar MUY BIEN espacios en la hoja                                                                 
 
-_Diagrama de Flujo_
+__Diagrama de Flujo__
 
 VENTAJAS: SUPER claro de leer 
 
 DESVENTAJAS: Tarda dibujarlo, mucho
                       
-_Pseudo Código_
+__Pseudo Código__
 
 VENTAJAS: SUPER simple y fácil de hacer en cualquier momento con una cantidad minima de materiales, Rápido   
 DESVENTAJAS:No muy claro que digamos de leer, Estructuras sin diferencias que las hagan facilmente reconocibles, no es tan fácil de seguir
