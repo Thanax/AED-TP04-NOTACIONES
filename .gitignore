@@ -1,28 +1,3 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+//Diagrama de flujo del TP 3 
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+// http://postimg.org/image/ebzogpng7/
